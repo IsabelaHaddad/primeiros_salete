@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(217, 48, 48);
+}
+
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(205, 205, 171);
+}
