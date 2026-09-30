@@ -1,26 +1,25 @@
 body {
     background-color: rgb(217, 48, 48);
+    text-align: center;
 }
 
 h1 {
     font-style: italic;
     font-weight: bold;
     color: rgb(205, 205, 171);
-    text-align: center;
 }
 
 h2 {
     font-style: italic;
     color: rgb(243, 239, 236);
-    text-align: center;
 }
 
 .img1 {
-    width: 40%;
+    width: 50%;
+    text-align: center;
 }
 
 h3 {
     font-style: italic;
     color: rgb(255, 254, 254);
-    text-align: center;
 }
