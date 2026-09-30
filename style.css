@@ -23,3 +23,11 @@ h3 {
     font-style: italic;
     color: rgb(255, 254, 254);
 }
+
+.lista {
+    text-align: left;
+    font-style: italic;
+    text-decoration: overline;
+    color: ghostwhite;
+}
+
